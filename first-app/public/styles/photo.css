@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .gallery {
+    max-width: 800px; /* Adjust the maximum width as needed */
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  .slide {
+    margin-bottom: 20px;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  h2 {
+    margin-top: 10px;
+    font-size: 36px;
+    text-align: center;
+  }
+ P{
+    text-align: center;
+    font-size: 25px;
+
+ }  
